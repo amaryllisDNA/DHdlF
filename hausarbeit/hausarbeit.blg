@@ -1,0 +1,21 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'hausarbeit.blg'
+[24] biber-darwin:342> INFO - === Wed Mar 18, 2026, 02:06:07
+[31] Biber.pm:421> INFO - Reading 'hausarbeit.bcf'
+[65] Biber.pm:1002> INFO - Found 6 citekeys in bib section 0
+[72] Biber.pm:4487> INFO - Processing section 0
+[75] Biber.pm:4678> INFO - Looking for bibtex file 'literatur.bib' for section 0
+[76] bibtex.pm:1713> INFO - LaTeX decoding ...
+[78] bibtex.pm:1519> INFO - Found BibTeX data source 'literatur.bib'
+[107] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[107] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[107] Biber.pm:4307> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[107] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[115] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[115] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[115] Biber.pm:4307> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[115] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[118] bbl.pm:676> INFO - Writing 'hausarbeit.bbl' with encoding 'UTF-8'
+[121] bbl.pm:779> INFO - Output to hausarbeit.bbl
+[121] Biber.pm:132> WARN - BibTeX subsystem: /var/folders/dm/6vyty1xs2t75kqv2lqbg5sy80000gn/T/biber_tmp_m3CH/a3880c76f34ea5bee4730f185bf8bebe_43514.utf8, line 59, warning: 9 characters of junk seen at toplevel
+[121] Biber.pm:134> INFO - WARNINGS: 1

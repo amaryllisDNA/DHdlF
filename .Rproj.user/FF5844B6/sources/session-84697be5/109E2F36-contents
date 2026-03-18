@@ -1,0 +1,22 @@
+Sys.setenv(DEEPL_API_KEY = "8067a3aa-eeba-47d6-8816-369e0f590bea:fx")
+
+
+
+bp_toulouse$contenu_translated <- vapply(
+  bp_toulouse$contenu_raw, 
+  function(x) {
+    google_translate(bp_toulouse$contenu_raw, target_language = "en", source_language = "fr")
+    print(".")
+  },
+  character(1)
+)
+  
+  
+google_translate(bp_toulouse$contenu_raw, target_language = "en", source_language = "fr")
+
+
+for (i in seq_len(nrow(bp_toulouse))) {
+  print(i)
+  bp_toulouse[i,]$contenu_raw_google_translated<- google_translate(bp_toulouse[i,]$contenu_raw, target_language = "en", source_language = "fr")
+  
+}

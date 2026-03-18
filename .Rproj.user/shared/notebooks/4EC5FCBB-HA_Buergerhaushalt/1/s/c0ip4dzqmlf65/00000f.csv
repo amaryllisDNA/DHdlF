@@ -1,0 +1,416 @@
+"0",""
+"0","labelTopics(poliblogPrevFit)"
+"1","Topic 1 Top Words:
+ 	 Highest Prob: propose, installation, several, provide, type, request, remain 
+ 	 FREX: propose, installation, type, several, plus, perhaps, request 
+ 	 Lift: detection, propose, installation, detector, plus, type, prohibition 
+ 	 Score: installation, propose, detection, type, several, perhaps, provide 
+"
+"1","Topic 2 Top Words:
+ 	 Highest Prob: direction, towards, leave, come, right, exit, intersection 
+ 	 FREX: direction, exit, towards, right, onto, leave, come 
+ 	 Lift: tempo, onto, exit, oncoming, direction, drop - off, mirror 
+ 	 Score: direction, tempo, exit, towards, lane, intersection, right 
+"
+"1","Topic 3 Top Words:
+ 	 Highest Prob: extend, open, can, tourist, expansion, two, city 
+ 	 FREX: extend, gap, wasen, tourist, associate, attraction, expansion 
+ 	 Lift: wasen, extend, fã, gap, interrupt, attraction, suit 
+ 	 Score: wasen, extend, tourist, ã_e, er, attraction, gap 
+"
+"1","Topic 4 Top Words:
+ 	 Highest Prob: roof, energy, heat, building, electricity, solar, use 
+ 	 FREX: roof, solar, energy, electricity, heat, power, panel 
+ 	 Lift: cell, hydrogen, renewable, roof, fuel, photovoltaic, solar 
+ 	 Score: roof, energy, cell, heat, electricity, solar, building 
+"
+"1","Topic 5 Top Words:
+ 	 Highest Prob: school, education, daycare_center, pandemic, support, student, need 
+ 	 FREX: teacher, pandemic, education, daycare_center, free_charge, digital, teach 
+ 	 Lift: educator, free_charge, lesson, digitalization, teacher, classroom, geb 
+ 	 Score: free_charge, teacher, daycare_center, education, digital, school, lesson 
+"
+"1","Topic 6 Top Words:
+ 	 Highest Prob: playground, child, play, equipment, old, climb, slide 
+ 	 FREX: playground, play, slide, pole, swing, climb, equipment 
+ 	 Lift: swing, pole, basso, playground, cambo, slide, adventure 
+ 	 Score: playground, pole, play, child, slide, equipment, swing 
+"
+"1","Topic 7 Top Words:
+ 	 Highest Prob: cyclist, use, overtake, cyclist_pedestrian, also, must, sign 
+ 	 FREX: cyclist, overtake, cyclist_pedestrian, many_cyclist, downhill, distance, uphill 
+ 	 Lift: contrary, overtake, cyclist, many_cyclist, cyclist_pedestrian, collision, life - threaten 
+ 	 Score: cyclist, contrary, overtake, cyclist_pedestrian, many_cyclist, footpath, downhill 
+"
+"1","Topic 8 Top Words:
+ 	 Highest Prob: make, s, pleasant, improve, seem, live, place 
+ 	 FREX: pleasant, heart, s, seem, daily, make, improve 
+ 	 Lift: self - service, heart, degrade, pleasant, itâ, considerably, letâ 
+ 	 Score: self - service, pleasant, heart, s, seem, make, degrade 
+"
+"1","Topic 9 Top Words:
+ 	 Highest Prob: street, neighborhood, install, allow, thank, hello, little 
+ 	 FREX: hello, thank, put, local_resident, neighborhood, metro, certain 
+ 	 Lift: urinal, pedestrianize, saturate, hello, decorate, thoroughfare, local_resident 
+ 	 Score: street, neighborhood, urinal, hello, metro, local_resident, line 
+"
+"1","Topic 10 Top Words:
+ 	 Highest Prob: trail, mountain, bike, skate, pump_track, scooter, zone 
+ 	 FREX: mountain, skate, pump_track, trail, biker, skateboard, skate_park 
+ 	 Lift: pump_track, skate, skateboard, mountain, biker, trail, bmx 
+ 	 Score: pump_track, mountain, trail, skate, biker, skate_park, skateboard 
+"
+"1","Topic 11 Top Words:
+ 	 Highest Prob: light, night, dark, street_light, even, lead, lamp 
+ 	 FREX: light, dark, street_light, lamp, night, illuminate, white 
+ 	 Lift: motion, lamp, street_light, dark, light, bright, illuminate 
+ 	 Score: light, motion, night, dark, street_light, lamp, illuminate 
+"
+"1","Topic 12 Top Words:
+ 	 Highest Prob: access, passage, bridge, ring_road, canal, along, go 
+ 	 FREX: canal, footbridge, ring_road, passage, greenway, saint, bridge 
+ 	 Lift: purpan, canal, greenway, footbridge, simon, chemin, saint 
+ 	 Score: ring_road, canal, footbridge, purpan, bridge, cross, greenway 
+"
+"1","Topic 13 Top Words:
+ 	 Highest Prob: high, limit, low, level, cost, simple, â_â 
+ 	 FREX: high, low, limit, level, speed_km_h, simple, â_â 
+ 	 Lift: speed_km_h, high, low, limit, eu, level, simple 
+ 	 Score: speed_km_h, limit, low, level, high, simple, cost 
+"
+"1","Topic 14 Top Words:
+ 	 Highest Prob: connection, public_transport, line, run, also, train, time 
+ 	 FREX: public_transport, line, s - bahn, connection, light_rail, main_station, minute 
+ 	 Lift: u2, u1, u14, u12, tangential, minibus, u13 
+ 	 Score: public_transport, connection, u1, s - bahn, line, light_rail, subway 
+"
+"1","Topic 15 Top Words:
+ 	 Highest Prob: driver, zebra_cross, drive, road, often, also, route 
+ 	 FREX: zebra_cross, driver, dangerous_situation, confuse, curve, traffic_calm, shortcut 
+ 	 Lift: traffic_calm, zebra_cross, oncoming_traffic, shortcut, secret, confuse, defuse 
+ 	 Score: traffic_calm, zebra_cross, driver, dangerous_situation, cross_street, curve, speed_camera 
+"
+"1","Topic 16 Top Words:
+ 	 Highest Prob: cycle_path, lane, create, car, secure, separate, road 
+ 	 FREX: cycle_path, lane, cycle_lane, separate, secure, create_cycle, continuous 
+ 	 Lift: worthy, create_cycle, cycle_path, path_along, cycle_lane, continuous, separation 
+ 	 Score: cycle_path, lane, worthy, cycle_lane, create_cycle, dangerous, separate 
+"
+"1","Topic 17 Top Words:
+ 	 Highest Prob: town_hall, install, trap, public, can, nest_box, us 
+ 	 FREX: trap, town_hall, nest_box, bat, enjoy, tiger, combat 
+ 	 Lift: proliferation, tiger, trap, bat, nest_box, town_hall, invade 
+ 	 Score: trap, town_hall, nest_box, tiger, bat, proliferation, nest 
+"
+"1","Topic 18 Top Words:
+ 	 Highest Prob: sport, facility, hall, club, outdoor, course, offer 
+ 	 FREX: swim_pool, hall, sport_hall, pool, club, facility, indoor 
+ 	 Lift: calisthenics, optimal, soccer, disc, sport_hall, swim_pool, volleyball 
+ 	 Score: sport, optimal, club, hall, pool, facility, volleyball 
+"
+"1","Topic 19 Top Words:
+ 	 Highest Prob: district, center, shop, place, room, event, meet 
+ 	 FREX: center, shop, district, room, event, meet, youth 
+ 	 Lift: update, doctor, center, shop, room, retail, village 
+ 	 Score: center, shop, district, cultural, room, update, event 
+"
+"1","Topic 20 Top Words:
+ 	 Highest Prob: local, market, food, offer, product, farm, supply 
+ 	 FREX: farm, weekly, market, product, food, organic, local 
+ 	 Lift: producer, weekly, farm, farmer, organic, product, consumer 
+ 	 Score: weekly, food, market, product, local, organic, farm 
+"
+"1","Topic 21 Top Words:
+ 	 Highest Prob: board, name, monument, history, fall, world, cityscape 
+ 	 FREX: monument, board, history, cityscape, name, historical, war 
+ 	 Lift: erect, historical, monument, cityscape, history, war, board 
+ 	 Score: erect, monument, history, board, war, cityscape, historical 
+"
+"1","Topic 22 Top Words:
+ 	 Highest Prob: sport, activity, young_people, practice, young, stadium, allow 
+ 	 FREX: stadium, activity, young_people, football, practice, teenager, young 
+ 	 Lift: rugby, teenager, stadium, mjc, skatepark, intergenerational, football 
+ 	 Score: sport, rugby, activity, stadium, young_people, football, teenager 
+"
+"1","Topic 23 Top Words:
+ 	 Highest Prob: sidewalk, street, narrow, road, car, wide, pass 
+ 	 FREX: sidewalk, one - way, narrow, widen_sidewalk, width, wide, roadway 
+ 	 Lift: above - mention, widen_sidewalk, narrowness, one - way, sidewalk, roadway, sidewalk_narrow 
+ 	 Score: sidewalk, narrow, above - mention, street, one - way, roadway, road 
+"
+"1","Topic 24 Top Words:
+ 	 Highest Prob: mobility, network, transport, reduce, user, electrical, cost 
+ 	 FREX: mobility, network, electrical, transport, ten, soft, app 
+ 	 Lift: electrical, mobility, autonomous, evaluate, network, app, future - orient 
+ 	 Score: electrical, mobility, network, transport, app, cycle, soft 
+"
+"1","Topic 25 Top Words:
+ 	 Highest Prob: build, charge, charge_station, building, time, new_build, electric 
+ 	 FREX: build, charge_station, charge, new_build, electric, demolition, infrastructure 
+ 	 Lift: charge_station, build, new_build, kaufhof, charge, demolition, 1st 
+ 	 Score: charge_station, build, charge, new_build, electric, demolition, building 
+"
+"1","Topic 26 Top Words:
+ 	 Highest Prob: like, good, even, city, can, also, example 
+ 	 FREX: like, just, still, know, lot, thing, even 
+ 	 Lift: definitely, thing, something, just, still, certainly, know 
+ 	 Score: definitely, like, something, look, just, think, still 
+"
+"1","Topic 27 Top Words:
+ 	 Highest Prob: speed, vehicle, sign, speed_bump, motorist, respect, slow 
+ 	 FREX: speed_bump, motorist, speed, radar, h, slow, respect 
+ 	 Lift: indication, 50km, speed_bump, radar, chicanes, motorist, 30km 
+ 	 Score: speed, speed_bump, vehicle, motorist, indication, radar, h 
+"
+"1","Topic 28 Top Words:
+ 	 Highest Prob: house, apartment, city, property, rend, rental, owner 
+ 	 FREX: house, apartment, rental, rend, affordable, real_estate, property 
+ 	 Lift: assistance, house, apartment, rental, affordable, ownership, rend 
+ 	 Score: house, assistance, apartment, rend, rental, affordable, property 
+"
+"1","Topic 29 Top Words:
+ 	 Highest Prob: street, many, convert, far, please, little, entire 
+ 	 FREX: street, convert, urgently, please, pedestrian_zone, designate, traffic - calm 
+ 	 Lift: steinhaldenfeld, wolfbusch, pedestrian_zone, neugereut, convert, hofen, lã 
+ 	 Score: street, steinhaldenfeld, convert, urgently, neugereut, designate, traffic - calm 
+"
+"1","Topic 30 Top Words:
+ 	 Highest Prob: area, place, attractive, redesign, make, nice, stay 
+ 	 FREX: redesign, stay, seat, attractive, nice, upgrade, area 
+ 	 Lift: upgrade, linger, redesign, seat, conceivable, television, wilhelma 
+ 	 Score: upgrade, area, redesign, seat, attractive, nice, stay 
+"
+"1","Topic 31 Top Words:
+ 	 Highest Prob: create, area, green, locate, green_space, place, creation 
+ 	 FREX: residence, green_space, locate, share_garden, create, creation, near 
+ 	 Lift: plaine, wasteland, share_garden, micro, residence, lung, zenith 
+ 	 Score: plaine, green_space, share_garden, green, create, alley, locate 
+"
+"1","Topic 32 Top Words:
+ 	 Highest Prob: water, fountain, drink, rain, also, already, bath 
+ 	 FREX: water, bath, drink, fountain, rain, rainwater, treatment 
+ 	 Lift: transparent, libres, shredder, bath, champ, drain, water 
+ 	 Score: water, transparent, fountain, bath, drink, rainwater, shredder 
+"
+"1","Topic 33 Top Words:
+ 	 Highest Prob: school, child, student, family, parent, time, primary_school 
+ 	 FREX: school, parent, primary_school, student, class, child, elementary_school 
+ 	 Lift: qualify, all - day, parent, primary_school, lunch, class, elementary_school 
+ 	 Score: school, child, parent, student, qualify, family, primary_school 
+"
+"1","Topic 34 Top Words:
+ 	 Highest Prob: side, development, grind, front, crossroad, part, des 
+ 	 FREX: crossroad, redo, du, des, rue, arrangement, side 
+ 	 Lift: redo, median, jardin, grand, du, crossroad, matabiau 
+ 	 Score: median, crossroad, du, rue, des, redo, side 
+"
+"1","Topic 35 Top Words:
+ 	 Highest Prob: waste, bin, collection, recycle, compost, plastic, collect 
+ 	 FREX: bin, collection, waste, plastic, compost, organic_waste, sort 
+ 	 Lift: ashtray, organic_waste, traditional, bin, sort, collection, plastic 
+ 	 Score: waste, bin, collection, recycle, traditional, compost, organic_waste 
+"
+"1","Topic 36 Top Words:
+ 	 Highest Prob: citizen, ticket, cost, city, company, pay, increase 
+ 	 FREX: ticket, tax, income, company, citizen, money, fee 
+ 	 Lift: mask, ticket, subsidy, payment, subscription, card, trade 
+ 	 Score: mask, ticket, citizen, tax, money, euro, subsidy 
+"
+"1","Topic 37 Top Words:
+ 	 Highest Prob: garden, plant, will, vegetable, land, project, collective 
+ 	 FREX: garden, plot, vegetable, fruit_tree, fruit, collective, la 
+ 	 Lift: permaculture, vache, fruit_tree, edible, garden, plot, fruit 
+ 	 Score: garden, vache, vegetable, fruit, plant, fruit_tree, collective 
+"
+"1","Topic 38 Top Words:
+ 	 Highest Prob: summer, ice, hot, month, therefore, day, kiosk 
+ 	 FREX: ice, open - air, kiosk, summer, theater, hot, warm 
+ 	 Lift: open - air, tavern, snack, ice, kiosk, cream, microclimate 
+ 	 Score: open - air, summer, hot, ice, kiosk, theater, cool 
+"
+"1","Topic 39 Top Words:
+ 	 Highest Prob: traffic_light, green, turn, time, wait, red, switch 
+ 	 FREX: traffic_light, red, switch, pedestrian_traffic_light, red_light, wait, turn 
+ 	 Lift: midnight, traffic_light, red_light, pedestrian_traffic_light, red, olgaeck, second 
+ 	 Score: traffic_light, midnight, pedestrian_traffic_light, red, red_light, switch, turn 
+"
+"1","Topic 40 Top Words:
+ 	 Highest Prob: station, clean, platform, city, toilet, subway, â 
+ 	 FREX: station, platform, clean, subway, elevator, toilet, underground 
+ 	 Lift: elevator, above - grind, station, terminus, db, platform, http 
+ 	 Score: station, elevator, clean, toilet, platform, subway, terminus 
+"
+"1","Topic 41 Top Words:
+ 	 Highest Prob: traffic, reduce, due, traffic_jam, calm, situation, lead 
+ 	 FREX: traffic, calm, traffic_jam, significant, flow, transit, heavy 
+ 	 Lift: calm, sneak, traffic, traffic_jam, transit, traffic_flow, chaos 
+ 	 Score: traffic, calm, traffic_jam, traffic_flow, transit, route, str 
+"
+"1","Topic 42 Top Words:
+ 	 Highest Prob: together, exchange, information, can, box, workshop, citizen 
+ 	 FREX: exchange, book, together, workshop, box, information, tool 
+ 	 Lift: telephone, book, associative, reception, exchange, tool, object 
+ 	 Score: telephone, exchange, book, workshop, object, information, repair 
+"
+"1","Topic 43 Top Words:
+ 	 Highest Prob: animal, live_space, church, shelter, dog, convert, cat 
+ 	 FREX: live_space, animal, church, cat, shelter, convert, cap 
+ 	 Lift: live_space, cat, animal, church, cap, shelter, freedom 
+ 	 Score: live_space, animal, cat, shelter, church, dog, convert 
+"
+"1","Topic 44 Top Words:
+ 	 Highest Prob: idea, via, implement, study, exist, extension, implementation 
+ 	 FREX: extension, study, eastern, rapid, implementation, implement, idea 
+ 	 Lift: rapid, eastern, transmit, variant, consistent, extension, study 
+ 	 Score: rapid, extension, study, idea, via, implementation, eastern 
+"
+"1","Topic 45 Top Words:
+ 	 Highest Prob: vehicle, scooter, car, electric, delivery, pollution, noise 
+ 	 FREX: delivery, vehicle, motorcycle, engine, electric, scooter, pollute 
+ 	 Lift: diesel, two - wheelers, engine, delivery, noisy, motorcycle, combustion 
+ 	 Score: diesel, vehicle, scooter, delivery, electric, motorcycle, noise 
+"
+"1","Topic 46 Top Words:
+ 	 Highest Prob: space, square, museum, public_space, place, current, share 
+ 	 FREX: square, space, museum, public_space, factory, terrace, exhibition 
+ 	 Lift: factory, square, space, museum, architectural, prison, public_space 
+ 	 Score: space, factory, square, museum, public_space, terrace, exhibition 
+"
+"1","Topic 47 Top Words:
+ 	 Highest Prob: office, home, need, care, health, staff, department 
+ 	 FREX: office, home, department, staff, hospital, care, nurse 
+ 	 Lift: retirement, insurance, nurse, department, office, hospital, home 
+ 	 Score: retirement, office, home, care, staff, department, hospital 
+"
+"1","Topic 48 Top Words:
+ 	 Highest Prob: bicycle, bike, cycle, city_center, route, city, rack 
+ 	 FREX: bicycle, cycle, bike, rack, highway, city_center, e - bike 
+ 	 Lift: highway, rack, bicycle, cycle, e - bike, bike, birkenkopf 
+ 	 Score: bicycle, highway, bike, cycle, rack, e - bike, city_center 
+"
+"1","Topic 49 Top Words:
+ 	 Highest Prob: work, association, support, volunteer, project, society, â 
+ 	 FREX: society, volunteer, commitment, refugee, victim, association, german 
+ 	 Lift: refugee, victim, perpetrator, society, civic, commitment, ns 
+ 	 Score: refugee, association, volunteer, society, victim, art, nazi 
+"
+"1","Topic 50 Top Words:
+ 	 Highest Prob: city, area, concept, create, urban, project, plan 
+ 	 FREX: concept, climate, open_space, achieve, urban, participatory_budget, environmental 
+ 	 Lift: statute, iba, architect, interim, open_space, maker, pursue 
+ 	 Score: statute, climate, concept, city, plan, project, architect 
+"
+"1","Topic 51 Top Words:
+ 	 Highest Prob: surface, renovate, replace, road, condition, asphalt, repair 
+ 	 FREX: renovate, surface, pave, asphalt, replace, repair, damage 
+ 	 Lift: resurface, permeable, pothole, renovate, pavement, pave, hole 
+ 	 Score: surface, renovate, resurface, repair, asphalt, pave, pothole 
+"
+"1","Topic 52 Top Words:
+ 	 Highest Prob: path, walk, forest, route, along, footpath, walker 
+ 	 FREX: path, walk, stair, walker, forest, footpath, cemetery 
+ 	 Lift: generalize, lidl, path, muddy, hike, slippery, waldheim 
+ 	 Score: path, forest, footpath, walk, generalize, route, stair 
+"
+"1","Topic 53 Top Words:
+ 	 Highest Prob: bank, garonne, dike, river, access, currently, edge 
+ 	 FREX: bank, garonne, dike, relation, river, filter, embankment 
+ 	 Lift: relation, zac, bank, garonne, dike, upstream, bw 
+ 	 Score: bank, garonne, relation, dike, river, embankment, zac 
+"
+"1","Topic 54 Top Words:
+ 	 Highest Prob: tree, plant, flower, shrub, wild, grass, biodiversity 
+ 	 FREX: shrub, flower, tree, grass, species, plant, bee 
+ 	 Lift: butterfly, fell, shrub, replant, plantation, flower, sow 
+ 	 Score: tree, plant, fell, flower, shrub, species, biodiversity 
+"
+"1","Topic 55 Top Words:
+ 	 Highest Prob: people, go, store, city, live, help, without 
+ 	 FREX: people, store, homeless, worker, elderly, woman, country 
+ 	 Lift: grocery, impair, people, homeless, elderly, woman, celebrate 
+ 	 Score: people, grocery, store, homeless, worker, woman, elderly 
+"
+"1","Topic 56 Top Words:
+ 	 Highest Prob: dog, bench, table, game, set, park, install 
+ 	 FREX: table, bench, public_toilet, game, tennis, dog, picnic 
+ 	 Lift: ping, public_toilet, ping - pong, chess, chair, tennis, boules 
+ 	 Score: public_toilet, dog, table, bench, tennis, game, toilet 
+"
+"1","Topic 57 Top Words:
+ 	 Highest Prob: wall, city, work, paint, art, color, artist 
+ 	 FREX: wall, graffito, paint, artist, color, art, beautify 
+ 	 Lift: graffito, wall, tag, fresco, gray, architecture, artist 
+ 	 Score: graffito, wall, paint, artist, fresco, art, beautify 
+"
+"1","Topic 58 Top Words:
+ 	 Highest Prob: area, must, regulation, ban, police, measure, can 
+ 	 FREX: police, regulation, violation, video, ban, license, correspond 
+ 	 Lift: inner - city, license, officer, violation, punish, crime, inspection 
+ 	 Score: inner - city, police, ban, license, regulation, violation, crime 
+"
+"1","Topic 59 Top Words:
+ 	 Highest Prob: plant_tree, shade, summer, tree, vegetation, heat, plant 
+ 	 FREX: shade, vegetation, plant_tree, freshness, revegetate, vegetate, heat_island 
+ 	 Lift: cinema, vegetate, heatwave, revegetate, vegetation, shade, bitumen 
+ 	 Score: cinema, shade, plant_tree, freshness, summer, heat, vegetation 
+"
+"1","Topic 60 Top Words:
+ 	 Highest Prob: aeurc, will, project, courtyard, plant, estimate, area 
+ 	 FREX: aeurc, courtyard, estimate, hectare, million, euro, ma2 
+ 	 Lift: hectare, aeurc, courtyard, estimate, ma2, oasis, million 
+ 	 Score: aeurc, hectare, courtyard, estimate, ma2, million, plant 
+"
+"1","Topic 61 Top Words:
+ 	 Highest Prob: new, will, construction, plan, year, old, renovation 
+ 	 FREX: new, construction, plan, renovation, year, old, include 
+ 	 Lift: eco, construction, new, demolish, renovation, construction_site, timely 
+ 	 Score: new, construction, eco, plan, renovation, old, year 
+"
+"1","Topic 62 Top Words:
+ 	 Highest Prob: stop, bus, bus_stop, tram, time, wait, without 
+ 	 FREX: bus, stop, bus_stop, tram, passenger, taxi, wait 
+ 	 Lift: hã, bus, bus_stop, stop, taxi, tram, passenger 
+ 	 Score: bus, stop, bus_stop, hã, tram, passenger, taxi 
+"
+"1","Topic 63 Top Words:
+ 	 Highest Prob: park, park_space, car_park, car, resident, free, resident_park 
+ 	 FREX: park_space, park, resident_park, car_park, garage, cargo_bike, bicycle_park 
+ 	 Lift: cargo_bike, park_permit, resident_park, park_space, parkers, garage, park 
+ 	 Score: park, park_space, cargo_bike, car_park, resident_park, park_permit, car 
+"
+"1","Topic 64 Top Words:
+ 	 Highest Prob: neighborhood, project, resident, association, will, mosquito, inhabitant 
+ 	 FREX: mosquito, inhabitant, association, metropolis, objective, ecology, link 
+ 	 Lift: mosquito, ecology, eco - responsible, fr, inhabitant, metropolis, recreate 
+ 	 Score: mosquito, neighborhood, project, association, inhabitant, metropolis, objective 
+"
+"1","Topic 65 Top Words:
+ 	 Highest Prob: noise, resident, increase, introduce, speed, km_h, speed_limit 
+ 	 FREX: introduce, noise, km_h, speed_limit, limit_km_h, speed_limit_km, residential_area 
+ 	 Lift: introduce, a8, speed_limit_km, aggressive, tã, pollutant, bingen 
+ 	 Score: introduce, noise, speed_limit, km_h, speed, speed_limit_km, limit_km_h 
+"
+"1","Topic 66 Top Words:
+ 	 Highest Prob: pedestrian, cross, dangerous, safe, pedestrian_cross, intersection, busy 
+ 	 FREX: pedestrian, cross, pedestrian_cross, safe, busy, safely, crossing 
+ 	 Lift: mix, crossing, pedestrian_cross, pedestrian, safely, cross, busy 
+ 	 Score: pedestrian, mix, cross, pedestrian_cross, dangerous, safe, intersection 
+"
+"1","Topic 67 Top Words:
+ 	 Highest Prob: container, corner, glass, garbage, trash_can, dump, clean 
+ 	 FREX: container, glass, garbage, deposit, bury, corner, dump 
+ 	 Lift: bury, container, deposit, litter, glass, bottle, garbage 
+ 	 Score: bury, glass, container, garbage, deposit, dump, trash_can 
+"
+"1","Topic 68 Top Words:
+ 	 Highest Prob: clear, maintain, regularly, city, de, since, maintenance 
+ 	 FREX: clear, regularly, maintain, recommend, snow, highly, maintenance 
+ 	 Lift: recommend, clear, snow, regularly, terrible, maintain, highly 
+ 	 Score: recommend, clear, regularly, maintain, snow, highly, www 
+"
+"1","Topic 69 Top Words:
+ 	 Highest Prob: use, good, possible, many, reject, also, need 
+ 	 FREX: use, good, reject, possible, many, need, without 
+ 	 Lift: reject, use, good, possible, need, many, without 
+ 	 Score: reject, use, good, possible, need, many, without 
+"

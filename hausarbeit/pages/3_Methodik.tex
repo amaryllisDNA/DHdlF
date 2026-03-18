@@ -1,0 +1,58 @@
+\fancyhead[L]{Methodik} % 1000 Wörter (reste 3995 mots)
+
+
+
+\section{Methodik}
+Um die Fragestellung dieser Arbeit zu beantworten, wurden alle Vorschläge zu den Bürgerhaushalten in Toulouse und Stuttgart aus dem Zeitraum 2021 bis 2023 erhoben. 
+Die Analyse der in den Beiträgen erwähnten Themen erfolgt durch den Einsatz von \textit{structural topic modelling}.
+Diese innovative Methode des \textit{natural language processing} ermöglicht die \textit{unsupervised} und theorielose Extraktion strukturierender Themen aus umfangreichen Textcorpora.
+
+\subsection{Fallauswahl}
+
+\subsection{Daten}
+
+\subsubsection{Datengrundlage - Bürgerhaushalten in Toulouse und Stuttgart}
+
+Eine wichtige 
+
+=> Toulouse, site officiel "Je Participe"
+    - Base de donnée pré-existante, mais incomplÈte
+
+=> Stuttgart, site officiel Buergerhaushalt Stuttgart
+    - Pas de base accessible, web-scraping de toutes les propositions par année avec BeautifulSoup sur Python. 
+
+
+
+\subsection{\textit{Structural Topic Modelling}: Eine Methode der \textit{Natural Language Processing}}
+
+Ende der 90er Jahre bestand im Bereich Information Retrieval (IR) ein Bedürfnis für einen Wandel, da Textcorpora zunehmend zu umfangreich für klassische qualitative Auswertungsmethoden wurden.
+So entstanden ab Anfang der 2000er Jahre neue Modellierungsmethoden, die die Dimensionen längerer Textdokumente reduzieren können, ohne auf die Kerninformationen zu verzichten \parencite{Heiberger2025STMI}.
+So entstand die Methode, die für diese Arbeit angewendet wird: \textit{Structural Topic Modelling}.
+
+
+\subsubsection{\textit{Structural Topic Modelling} in der Sozial- und Politikforschung}
+
+Anfang der 2000er Jahre wurden die ersten Topic Models entwickelt, die auch als \textit{Latent Dirichlet Allocation} (LDA) bezeichnet werden.
+Das LDA-Modell ist ein dreistufiges bayesisches Modell. 
+Es identifiziert „Bags-of-Words“, die über mehrere Dokumente hinweg gestreut sind, und bildet damit Themen (\glqq Topics\grqq{}). 
+Die \textit{topic probabilities} eines jeden Dokuments sind eine explizite, vereinfachte Darstellung des Dokuments, die dessen Kerninformationen enthält (\cite[993]{Blei2003LatentDirichletAllocation} ; \cite[1171]{Heiberger2021FacetsSpecialization}).
+LDA sind sogenannte \textit{unsupervised topic modelling}-Methoden, die auf eine bestimmte Wahrnehmung der Sprache hinweisen, als durch latente Dimensionen strukturiert, welche für die Akteure selbst nicht unbedingt bewusst sind.
+So sind die Methoden des \textit{unsupervised topic modelling} besonders für explorative Verfahren und die Entdeckung von Sprachbereichen geeignet.
+Jedoch existieren andere \textit{topic modelling} Methoden, welche teilweise oder völlig überwacht werden und andere Ziele erreichen können \parencite[611]{McFarland2013DifferentiatingLanguageUsage}.\\
+
+Die vorliegende Arbeit stützt sich auf eine spezifische Art des \textit{topic modelling}, die von Roberts et al. \parencite*{Roberts2014StructuralTopicModels} entwickelt wurde: \textit{Structural Topic Modelling} (STM).
+Diese Variante wurde speziell für die quantitative Analyse von Umfragefeldern mit offenen Antwortmöglichkeiten entworfen. 
+Wie die anderen LDA-Modelle ermöglicht STM einen explorativen Ansatz, bei dem Themen nicht nur vermutet, sondern unabhängig von den theoretischen Erwartungen des Forschers entdeckt werden.
+Allerdings ergänzt STM die LDA-Modelle, indem auch Dokumentvariabeln (\textit{docvars}) als Kovariaten im Modell berücksichtigt werden können, was Schätzung der \textit{Topics} verbessert.
+Mit STM können somit nicht nur Themen entdeckt, sondern auch deren Wahrscheinlichkeiten in Bezug auf die Dokumentvariablen modelliert werden (\cite[1066]{Roberts2014StructuralTopicModels} ; \cite[1171]{Heiberger2021FacetsSpecialization}). 
+
+Diese Modelle werden seit ihrer Entwicklung im Jahr 2014 regelmäßig im Forschungskontext verwendet. 
+Auf der offiziellen Website der Entwickler dieser Methode \url{www.structuraltopicmodel.com}{www.structuraltopicmodel.com} werden über fünfzig verschiedene Forschungsbeiträge in der Politik-, Sozial- und Medienforschung aufgeführt, die \textit{structural topic modelling} als Methode verwenden.
+
+
+\subsubsection{Umsetzung der STM Methode}
+
+=> Aufbereitung
+=> stm-Paket
+
+=> nachdem ...

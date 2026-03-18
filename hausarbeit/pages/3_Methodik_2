@@ -1,0 +1,52 @@
+\fancyhead[L]{Methodik} % 1000 Wörter (reste 3995 mots)
+
+
+\section{Methodik}
+
+Um die Hypothesen zu überprüfen wurden \textit{natural language processing} (NLP) Methoden verwendet, um die Inhalte der Vorschläge zu den Bürgerhaushalten in Toulouse und Stuttgart in den Jahren 2021 und 2023 auszuwerten. 
+Anschlie\ss end wurden die erhobenen Themen in beiden Städte verglichen, um systematische Unterschiede oder Gemeinsamkeiten zu ermitteln.
+
+
+\subsection{Fallauswahl}
+
+Ziel dieser Arbeit ist die vergleichende Analyse der Themen von Vorschläge zu den Bürgerhaushalten zwei Gro\ss städten in Frankreich und Deutschland. 
+
+
+\subsection{Daten}
+
+Die Wahl der St
+
+Für diese Arbeit stammen alle Daten aus Online-Quellen, jedoch wurden sie mit unterschiedlichen Vorgehensweise erhoben und verarbeitet.
+
+\subsubsection{Datengrundlage - Bürgerhaushalten in Toulouse und Stuttgart}
+
+Eine wichtige 
+
+=> Toulouse, site officiel "Je Participe"
+    - Base de donnée pré-existante, mais incomplÈte
+
+=> Stuttgart, site officiel Buergerhaushalt Stuttgart
+    - Pas de base accessible, web-scraping de toutes les propositions par année avec BeautifulSoup sur Python. 
+
+\subsubsection{Datenvorbereitung}
+
+=> toulouse remplissage manuel de la colonne "état"
+=> Stuttgart inférence umgesetzt 
+
+
+=> neutralisation des noms de rues (en créant un dictionnaire associant une key à un ngram de rue)
+
+
+=> traduction avec polyglotR (Google Translate API)
+
+
+=> tokenization, lemmatization, prise en compte des ngrams les plus utilisés
+
+
+\subsection{Structural Topic Modelling: Eine Methode der Natural Language Processing}
+
+\subsubsection{STM und NLP in der Sozial- und Politikforschung}
+
+\subsubsection{Umsetzung der STM Methode}
+
+=> nachdem ...

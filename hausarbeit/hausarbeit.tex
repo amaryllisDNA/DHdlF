@@ -1,0 +1,67 @@
+\documentclass[12pt,a4paper,titlepage,oneside]{report} %Festlegen der Dokumentenklasse, Schriftgröße, Papiergröße, hat Titelseite, ist Einseitig
+\title{HA: Inklusivität und Exklusivität beim JazzOpen}
+\author{}
+\date{}
+\input{präambel.tex} %Füge Präambel ein
+\begin{document} %Beginne Dokument
+\include{pages/0_Titelseite} %Füge Titelseite ein
+\newpage %Neue Seite
+\fancyhf{} %Kopf- und Fußzeile resetten
+\begin{spacing}{1.5} %Zeilenabstand 1,5
+\newpage
+
+\renewcommand{\thesection}{\arabic{section}}
+
+
+\fancyhead[L]{\nouppercase\leftmark} %Kapitel in Kopfzeile links, kleingeschrieben
+\fancyhead[R]{\thepage} %Schreibe die Seitenzahl in die Kopfzeile rechts
+\tableofcontents %Erstelle Inhaltsverzeichnis
+\newpage
+
+\setcounter{section}{0}
+
+\fancyhead[L]{Abbildungsverzeichnis}
+
+\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+\begingroup
+  \renewcommand\clearpage{\relax}
+  \listoftables
+  \listoffigures
+\endgroup
+
+\newpage
+
+\include*{pages/1_Einleitung} %Füge Einleitung ein
+
+\include*{pages/2_Literatur} 
+
+\include*{pages/3_Methodik}
+
+\include*{pages/4_Ergebnisse} 
+
+\include*{pages/5_Diskussion}
+
+\include*{pages/6_Fazit}
+
+\fancyhead[L]{Literaturverzeichnis}
+\printbibliography[heading=bibintoc,title=Literaturverzeichnis] %Erstelle Literaturverzeichnis mit Titel Literaturverzeichnis und hinzufügen zu Inhaltsverzeichnis
+
+\newpage
+\chapter*{Eidesstattliche Erklärung} 
+\addcontentsline{toc}{chapter}{Eidesstattliche Erklärung}
+
+Hiermit bestätige ich, dass ich die vorliegende Arbeit selbständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt habe. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
+\\%Hier Unterschrift einfügen
+Stuttgart, \today
+
+\fancyhead[R]{\thepage} %Schreibe die Seitenzahl in die Kopfzeile rechts
+\fancyhead[L]{Eidesstattliche Erklärung} %Schreibe Eidesstattliche Erklärung in die Kopfzeile links
+%\clearpage %wie newpage, aber Bilder die nicht mehr auf die Seite passen werden noch ggf auf neuer Seite eingefügt und dann wird danach eine neue Seite gemacht
+
+
+\include{pages/7_Anhang} %Füge Zusammenfassung ein
+
+\end{spacing} %Beende Zeilenabstand
+
+
+\end{document} %Beende Dokument

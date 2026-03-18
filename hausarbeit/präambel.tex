@@ -1,0 +1,106 @@
+\usepackage{blindtext} %Alle benötigten Packages einbinden, wichtig um diese überhaupt nutzen zu können
+\usepackage[utf8]{inputenc} % evtl. nötig
+\usepackage{newclude}
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\usepackage{epigraph}
+\usepackage[style=apa, doi=false, isbn = false]{biblatex} %Zitierstil IEEE, macht Literaturverzeichnis
+\usepackage{caption}
+\usepackage[ngerman]{babel} %Rechtschreibprüfung, aber nur rudimentär
+\usepackage{csquotes}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath} % modernes Times New Roman ähnliches Paket
+\usepackage{mathptmx}
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{geometry} %Seitenränder etc. anpassbar machen
+\usepackage{layout}
+\usepackage{fancyhdr} %macht schöne Kopf- und Fußzeilen
+\usepackage{moresize} %mehr Schriftgrößen möglich mit /Large /LARGE /HUGE /small etc.
+\usepackage{setspace} %Zeilenabstand änderbar
+\usepackage[colorlinks,pdfpagelabels,pdfstartview = FitH,bookmarksopen = true,bookmarksnumbered = true,linkcolor = black,plainpages = false,hypertexnames = false,citecolor = black,urlcolor = black]{hyperref} %Macht Verlinkungen im PDF, wie z.B. Kapitel im Inhaltsverzeichnis, Farben sind auf schwarz gesetzt, sind standardmäßig bunt
+\usepackage[none]{hyphenat}
+\usepackage{multirow}
+\usepackage{tocloft}
+\usepackage{minitoc}
+\usepackage[page]{appendix}
+\usepackage{etoolbox}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{pdfpages}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{ragged2e} % for \RaggedRight
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{pdflscape}
+\usepackage{rotating}
+\usepackage{xcolor}
+
+\lstset{
+  language=R,
+  basicstyle=\ttfamily\scriptsize,  % smaller font for A4
+  breaklines=true,                   % wrap long lines
+  breakatwhitespace=false,
+  frame=single,                      % add frame around code
+  backgroundcolor=\color[gray]{0.95}, % light gray background
+  numbers=left,                      % line numbers
+  numberstyle=\tiny,
+  numbersep=5pt,
+  showstringspaces=false,
+  tabsize=2,
+  columns=flexible,                  % better handling of proportional fonts
+  literate=                           % preserve German Umlauts
+    {Ö}{{\"O}}1
+    {Ä}{{\"A}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {ö}{{\"o}}1
+    {ä}{{\"a}}1
+    {ü}{{\"u}}1,
+  keywordstyle={},                   % remove keyword colors
+  commentstyle= \color{darkgray}\itshape ,                   % remove comment colors
+  stringstyle={}                     % remove string colors
+}
+
+
+
+
+\sloppy
+
+
+% Define a new TOC file for the appendix
+\newcommand{\appendixtoc}{appendix.toc}
+
+% Command to add sections to the appendix TOC only
+\newcommand{\appendixsection}[1]{%
+  \section*{#1} % Section title without numbering
+  \addtocontents{appendix}{\protect\contentsline{section}{#1}{\thepage}} % Add entry to appendix-specific TOC
+}
+
+% Set up a separate TOC for the appendix
+\newcommand{\listofappendix}{%
+  \section*{Anhang Inhaltsverzeichnis} % Title of the appendix TOC
+  \addcontentsline{toc}{section}{Anhang Inhaltsverzeichnis} % Optional: add to main TOC
+  \begin{itemize}
+    \input{\appendixtoc} % Import appendix TOC entries
+  \end{itemize}
+}
+
+\addbibresource{literatur.bib} %Literaturverzeichnis Datei einbinden
+
+\geometry{ %Seitenränder festlegen
+top=25mm,
+bottom=20mm,
+left= 25mm,
+right=40mm,
+headheight=15pt
+}
+
+\pagestyle{fancy} %Seitenstil auf fancyhdr festlegen
+\fancypagestyle{plain}{} %Seitenstil plain wird bei Kapitelbeginn genutzt, soll auf fancy sein
+\fancyhf{} %Resette Kopf- und Fußzeile
+\fancyhead[L]{\nouppercase\leftmark} %Schreibe klein(Normal) Kapitel in die Kopfzeile links
+\fancyhead[R]{\thepage} %Schreibe Seitenzahl in die Kopfzeile rechts

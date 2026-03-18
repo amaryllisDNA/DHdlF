@@ -1,0 +1,609 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Blei2003LatentDirichletAllocation}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49e889356ff39df159461bc2895c7e16}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Andrew\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a36116840c7ee55901618c95fd08a58}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{50a4a559b35564cbc2f774144099d967}
+      \strng{fullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{fullhashraw}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{bibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorbibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authornamehash}{50a4a559b35564cbc2f774144099d967}
+      \strng{authorfullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorfullhashraw}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1532-4435}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{4-5}
+      \field{title}{Latent Dirichlet Allocation}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{993\bibrangedash 1022}
+      \range{pages}{30}
+    \endentry
+    \entry{Heiberger2021FacetsSpecialization}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3de36c91281ced5aa39743698a3f6574}{%
+           family={Heiberger},
+           familyi={H\bibinitperiod},
+           given={Raphael\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19ad7916d69eafb3d529bf2136853dac}{%
+           family={Muñoz-Najar\bibnamedelima Galvez},
+           familyi={M\bibinithyphendelim N\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Sociological Association}%
+      }
+      \strng{namehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{fullhash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{fullhashraw}{e7d18be33d90ab1923ae43789e497864}
+      \strng{bibnamehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authorbibnamehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authornamehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authorfullhash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authorfullhashraw}{e7d18be33d90ab1923ae43789e497864}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{6}
+      \field{title}{Facets of Specialization and Its Relation to Career Success: An Analysis of U.S. Sociology, 1980 to 2015}
+      \field{volume}{86}
+      \field{year}{2021}
+      \field{pages}{1164\bibrangedash 1192}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1177/00031224211056267
+      \endverb
+    \endentry
+    \entry{Heiberger2025STMI}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=131117735619e0b6ba814ec9e22472ee}{%
+           family={Heiberger},
+           familyi={H\bibinitperiod},
+           given={Raphael\bibnamedelima Heiko},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{fullhash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{fullhashraw}{131117735619e0b6ba814ec9e22472ee}
+      \strng{bibnamehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authorbibnamehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authornamehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authorfullhash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authorfullhashraw}{131117735619e0b6ba814ec9e22472ee}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Vorlesungsmaterial, Universität Stuttgart, Modul ``Text- und Netzwerkanalyse''}
+      \field{note}{Vorlesung}
+      \field{title}{9. Introduction to Structural Topic Models}
+      \field{year}{2025}
+    \endentry
+    \entry{McFarland2013DifferentiatingLanguageUsage}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d4f2a8426c8bacb6fe92a818130260ae}{%
+           family={McFarland},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86066638fba5b4dc33bcee0bcba473cf}{%
+           family={Ramage},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e5c02ba2cc4095aa510449351c450ee}{%
+           family={Chuang},
+           familyi={C\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1fc05b7156dc351ceebcc7f14fe27ee}{%
+           family={Heer},
+           familyi={H\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2214edb8305f7ccd7cdc310b3a8ae1b4}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd33d7a70284b5ead9c7985cb5c9929c}{%
+           family={Jurafsky},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5e9a9ca9f3e2844a9197e7d535c4213}
+      \strng{fullhash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{fullhashraw}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{bibnamehash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{authorbibnamehash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{authornamehash}{e5e9a9ca9f3e2844a9197e7d535c4213}
+      \strng{authorfullhash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{authorfullhashraw}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Poetics}
+      \field{number}{6}
+      \field{title}{Differentiating language usage through topic models}
+      \field{volume}{41}
+      \field{year}{2013}
+      \field{pages}{607\bibrangedash 625}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.poetic.2013.06.004
+      \endverb
+    \endentry
+    \entry{OECD2025GovernmentAtAGlance}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhashraw}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhashraw}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Government at a Glance 2025}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1787/0efd0bcd-en
+      \endverb
+    \endentry
+    \entry{Roberts2014StructuralTopicModels}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=ca08ae29f1298af10aa6e11f92b01aae}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Margaret\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1370510cfe223ff4c2c652b160014ba}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e9a50476b4db979d3b603e83a05e919}{%
+           family={Tingley},
+           familyi={T\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd584e3edce057e599237e990a12a93d}{%
+           family={Leder-Luis},
+           familyi={L\bibinithyphendelim L\bibinitperiod},
+           given={Jetson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa7650735f8202c0b5f3ce71f4fd8c14}{%
+           family={Gadarian},
+           familyi={G\bibinitperiod},
+           given={Shana\bibnamedelima Kushner},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1f81b75e0f1eb9b8e3955cc7788edff}{%
+           family={Albertson},
+           familyi={A\bibinitperiod},
+           given={Bethany},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187c24b68c32371cc8f611424ad4a73d}{%
+           family={Rand},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a287588d41e8d382603f687a9220830}
+      \strng{fullhash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{fullhashraw}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{bibnamehash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{authorbibnamehash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{authornamehash}{4a287588d41e8d382603f687a9220830}
+      \strng{authorfullhash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{authorfullhashraw}{e9b476e9c9c1bb9916574bf656da8130}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{number}{4}
+      \field{title}{Structural Topic Models for Open-Ended Survey Responses}
+      \field{volume}{58}
+      \field{year}{2014}
+      \field{pages}{1064\bibrangedash 1082}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/ajps.12103
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Blei2003LatentDirichletAllocation}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49e889356ff39df159461bc2895c7e16}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Andrew\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a36116840c7ee55901618c95fd08a58}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{50a4a559b35564cbc2f774144099d967}
+      \strng{fullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{fullhashraw}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{bibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorbibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authornamehash}{50a4a559b35564cbc2f774144099d967}
+      \strng{authorfullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorfullhashraw}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1532-4435}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{number}{4-5}
+      \field{title}{Latent Dirichlet Allocation}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{993\bibrangedash 1022}
+      \range{pages}{30}
+    \endentry
+    \entry{Heiberger2021FacetsSpecialization}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3de36c91281ced5aa39743698a3f6574}{%
+           family={Heiberger},
+           familyi={H\bibinitperiod},
+           given={Raphael\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19ad7916d69eafb3d529bf2136853dac}{%
+           family={Muñoz-Najar\bibnamedelima Galvez},
+           familyi={M\bibinithyphendelim N\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Sociological Association}%
+      }
+      \strng{namehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{fullhash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{fullhashraw}{e7d18be33d90ab1923ae43789e497864}
+      \strng{bibnamehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authorbibnamehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authornamehash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authorfullhash}{e7d18be33d90ab1923ae43789e497864}
+      \strng{authorfullhashraw}{e7d18be33d90ab1923ae43789e497864}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{6}
+      \field{title}{Facets of Specialization and Its Relation to Career Success: An Analysis of U.S. Sociology, 1980 to 2015}
+      \field{volume}{86}
+      \field{year}{2021}
+      \field{pages}{1164\bibrangedash 1192}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1177/00031224211056267
+      \endverb
+    \endentry
+    \entry{Heiberger2025STMI}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=131117735619e0b6ba814ec9e22472ee}{%
+           family={Heiberger},
+           familyi={H\bibinitperiod},
+           given={Raphael\bibnamedelima Heiko},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{fullhash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{fullhashraw}{131117735619e0b6ba814ec9e22472ee}
+      \strng{bibnamehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authorbibnamehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authornamehash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authorfullhash}{131117735619e0b6ba814ec9e22472ee}
+      \strng{authorfullhashraw}{131117735619e0b6ba814ec9e22472ee}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Vorlesungsmaterial, Universität Stuttgart, Modul ``Text- und Netzwerkanalyse''}
+      \field{note}{Vorlesung}
+      \field{title}{9. Introduction to Structural Topic Models}
+      \field{year}{2025}
+    \endentry
+    \entry{McFarland2013DifferentiatingLanguageUsage}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d4f2a8426c8bacb6fe92a818130260ae}{%
+           family={McFarland},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86066638fba5b4dc33bcee0bcba473cf}{%
+           family={Ramage},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e5c02ba2cc4095aa510449351c450ee}{%
+           family={Chuang},
+           familyi={C\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1fc05b7156dc351ceebcc7f14fe27ee}{%
+           family={Heer},
+           familyi={H\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2214edb8305f7ccd7cdc310b3a8ae1b4}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd33d7a70284b5ead9c7985cb5c9929c}{%
+           family={Jurafsky},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5e9a9ca9f3e2844a9197e7d535c4213}
+      \strng{fullhash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{fullhashraw}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{bibnamehash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{authorbibnamehash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{authornamehash}{e5e9a9ca9f3e2844a9197e7d535c4213}
+      \strng{authorfullhash}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \strng{authorfullhashraw}{d17baf24c9f237ff28bfb22cf3a393c2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Poetics}
+      \field{number}{6}
+      \field{title}{Differentiating language usage through topic models}
+      \field{volume}{41}
+      \field{year}{2013}
+      \field{pages}{607\bibrangedash 625}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.poetic.2013.06.004
+      \endverb
+    \endentry
+    \entry{OECD2025GovernmentAtAGlance}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhashraw}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhashraw}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Government at a Glance 2025}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1787/0efd0bcd-en
+      \endverb
+    \endentry
+    \entry{Roberts2014StructuralTopicModels}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=ca08ae29f1298af10aa6e11f92b01aae}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Margaret\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1370510cfe223ff4c2c652b160014ba}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Brandon\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e9a50476b4db979d3b603e83a05e919}{%
+           family={Tingley},
+           familyi={T\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd584e3edce057e599237e990a12a93d}{%
+           family={Leder-Luis},
+           familyi={L\bibinithyphendelim L\bibinitperiod},
+           given={Jetson},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa7650735f8202c0b5f3ce71f4fd8c14}{%
+           family={Gadarian},
+           familyi={G\bibinitperiod},
+           given={Shana\bibnamedelima Kushner},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1f81b75e0f1eb9b8e3955cc7788edff}{%
+           family={Albertson},
+           familyi={A\bibinitperiod},
+           given={Bethany},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187c24b68c32371cc8f611424ad4a73d}{%
+           family={Rand},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a287588d41e8d382603f687a9220830}
+      \strng{fullhash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{fullhashraw}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{bibnamehash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{authorbibnamehash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{authornamehash}{4a287588d41e8d382603f687a9220830}
+      \strng{authorfullhash}{e9b476e9c9c1bb9916574bf656da8130}
+      \strng{authorfullhashraw}{e9b476e9c9c1bb9916574bf656da8130}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{number}{4}
+      \field{title}{Structural Topic Models for Open-Ended Survey Responses}
+      \field{volume}{58}
+      \field{year}{2014}
+      \field{pages}{1064\bibrangedash 1082}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1111/ajps.12103
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
