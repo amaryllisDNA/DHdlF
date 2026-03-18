@@ -52,7 +52,24 @@ Auf der offiziellen Website der Entwickler dieser Methode \url{www.structuraltop
 
 \subsubsection{Umsetzung der STM Methode}
 
-=> Aufbereitung
+Um die erhobenen Textcorpora einander gegenüberstellen zu können, werden möglichst viele Ortsnamen systemtisch neutralisiert. 
+Der Grund dafür ist, dass ähnliche Ortsnamen auf sehr verschiedene Realitäten hinweisen können: So gibt es in Toulouse eine \glqq{}\textit{rue Franz Schubert}\grqq{} und in Stuttgart eine \glqq Schubertstraße\grqq{}, die beide zu \glqq \textit{(Franz) Schubert Street übersetzt}\grqq{} werden, obwohl sie sich nicht besonders ähneln. 
+Die STM würde in diesem Fall die beiden Straßen als identisch einstufen, was die Ergebnisse verfälschen kann, da der Straßenname kaum etwas über die Ähnlichkeit der beiden Straßen aussagt.
+Für beide Städte wurden nicht nur Straßen im weiteren Sinne neutralisiert, sondern auch Schulen, Plätze, Wälder, Flüsse, Kirchen, Brücken, Friedhöfe und Parks.
+
+
+
+In einem zweiten Schritt wurden die beiden Corpora mit dem R-Paket \glqq polyglotR\grqq{} alle Textabschnitte ins Englische übersetzt und in einem einzigen Corpus zusammengefügt.
+Die Extraktion aller Tokens stützt sich auf das R-Paket \glqq quanteda\grqq{}. 
+Für die Tokenisierung wurden nicht nur die einzelnen Wörter, sondern auch die 200 häufigsten Kombinationen aus zwei bis drei Wörtern (\textit{n-Grams}) berücksichtigt.
+Aus diesen Tokens wurde dann eine Document-Term-Matrix (DTM) erstellt. 
+Die DTM fasst für jeden Token zusammen, wie oft und in welchen Dokumenten des Corpus er verwendet wurde. 
+Alle Tokens, die in weniger als zehn Angeboten vorkamen, wurden herausgefiltert und die Dokumentvariablen wurden gesetzt.
+In diesem Fall sind die relevanten Dokumentvariablen die Stadt und das Jahr, in dem der Beitrag erstellt wurde, sowie die Anzahl der Zustimmungen, die der Beitrag erhalten hat.
+Letztendlich werden die DTM und die Dokumentvariablen verwendet, um eine STM mithilfe des R-Pakets \glqq stm\grqq{}, welches von Roberts et al. 2019 entwickelt wurde, zu bauen.
+Für diese Arbeit wurde der k-Wert auf 69 gesetzt, um Residuen zu minimieren und Exklusivität, \textit{lower-bound variation} und semantische Kohärenz zu maximieren.
+
+
 => stm-Paket
 
 => nachdem ...

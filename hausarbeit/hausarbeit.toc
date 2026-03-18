@@ -9,8 +9,8 @@
 \contentsline {subsection}{\numberline {3.3}\textit {Structural Topic Modelling}: Eine Methode der \textit {Natural Language Processing}}{5}{subsection.8}%
 \contentsline {subsubsection}{\textit {Structural Topic Modelling} in der Sozial- und Politikforschung}{5}{section*.9}%
 \contentsline {subsubsection}{Umsetzung der STM Methode}{6}{section*.10}%
-\contentsline {section}{\numberline {4}Einleitung}{6}{section.11}%
-\contentsline {section}{\numberline {5}Einleitung}{6}{section.12}%
-\contentsline {section}{\numberline {6}Einleitung}{6}{section.13}%
-\contentsline {chapter}{Literaturverzeichnis}{7}{chapter*.14}%
-\contentsline {chapter}{Eidesstattliche Erklärung}{8}{chapter*.15}%
+\contentsline {section}{\numberline {4}Einleitung}{7}{section.11}%
+\contentsline {section}{\numberline {5}Einleitung}{7}{section.12}%
+\contentsline {section}{\numberline {6}Einleitung}{7}{section.13}%
+\contentsline {chapter}{Literaturverzeichnis}{8}{chapter*.14}%
+\contentsline {chapter}{Eidesstattliche Erklärung}{9}{chapter*.15}%

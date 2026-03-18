@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber hausarbeit"] 1773795965.89845 "hausarbeit.bcf" "hausarbeit.bbl" "hausarbeit" 1773797939.42357 0
-  "hausarbeit.bcf" 1773797939.33156 134630 ae803a83beadade28f81282b4590d251 "pdflatex"
+["biber hausarbeit"] 1773795965.89845 "hausarbeit.bcf" "hausarbeit.bbl" "hausarbeit" 1773826205.76029 0
+  "hausarbeit.bcf" 1773826205.67047 134630 ae803a83beadade28f81282b4590d251 "pdflatex"
   "literatur.bib" 1773794794.62314 2512 4919423a9a0c0e0e0646814524e928ad ""
   (generated)
   "hausarbeit.bbl"
   "hausarbeit.blg"
   (rewritten before read)
-["pdflatex"] 1773797938.15625 "/Users/antheavonborowski/Documents/Academics/Uni Stuttgart/Buergerhaushalt/HA - Buergerhaushalt/hausarbeit/hausarbeit.tex" "hausarbeit.pdf" "hausarbeit" 1773797939.42391 0
+["pdflatex"] 1773826204.5703 "/Users/antheavonborowski/Documents/Academics/Uni Stuttgart/Buergerhaushalt/HA - Buergerhaushalt/hausarbeit/hausarbeit.tex" "hausarbeit.pdf" "hausarbeit" 1773826205.76055 0
   "/Users/antheavonborowski/Documents/Academics/Uni Stuttgart/Buergerhaushalt/HA - Buergerhaushalt/hausarbeit/hausarbeit.tex" 1773432162.61934 2247 f45090bc1bc6198b1c9e5643e3661e9c ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1698694482 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1529098226 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -410,20 +410,20 @@
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1773430649 3636762 fe443144da1fe12aa863d224410bb26f ""
   "/usr/local/texlive/2026/texmf.cnf" 1772409725 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
   "anhang/Host Logo.png" 1773427912.81384 18816 1479d2689a9c7747d200537a2bd5d0c0 ""
-  "hausarbeit.aux" 1773797939.32713 40778 3a0d6fa4c930ccbb3abee0430b380692 "pdflatex"
+  "hausarbeit.aux" 1773826205.66569 40779 e3539e9199792040841250d2d4e7be6f "pdflatex"
   "hausarbeit.bbl" 1773795967.23951 25290 cf59ad94bb31c15212afd28331ded833 "biber hausarbeit"
-  "hausarbeit.lof" 1773797939.33222 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
-  "hausarbeit.lot" 1773797939.3322 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
-  "hausarbeit.mtc" 1773797938.71506 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "hausarbeit.mtc0" 1773797938.7151 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "hausarbeit.out" 1773797939.32932 1890 cecd1d3df33c329f4b4246c0e618dd95 "pdflatex"
-  "hausarbeit.run.xml" 1773797939.33213 2464 3daf6b5a57a433c74b55d803f49d15e2 "pdflatex"
+  "hausarbeit.lof" 1773826205.67133 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
+  "hausarbeit.lot" 1773826205.6713 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
+  "hausarbeit.mtc" 1773826205.1472 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "hausarbeit.mtc0" 1773826205.14724 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "hausarbeit.out" 1773826205.66815 1890 cecd1d3df33c329f4b4246c0e618dd95 "pdflatex"
+  "hausarbeit.run.xml" 1773826205.67109 2464 3daf6b5a57a433c74b55d803f49d15e2 "pdflatex"
   "hausarbeit.tex" 1773432162.61934 2247 f45090bc1bc6198b1c9e5643e3661e9c ""
-  "hausarbeit.toc" 1773797939.33218 1230 3aff129f58d1a712899480d4e6de555e "pdflatex"
+  "hausarbeit.toc" 1773826205.67118 1230 1765296d15d0fa79a695c2a0b95c17d5 "pdflatex"
   "pages/0_Titelseite.tex" 1773448766.54434 998 6960780cb72501711232544bee56bc18 ""
   "pages/1_Einleitung.tex" 1773710011.67953 3026 9796cb5b7c81df5de36af0f890c5362e ""
   "pages/2_Literatur.tex" 1773431468.19624 81 fa4dd534d538e01fcfceabc9a14b24e7 ""
-  "pages/3_Methodik.tex" 1773797937.90794 4298 5c431856459ff0f24c1ab218bf5c04ae ""
+  "pages/3_Methodik.tex" 1773826204.37973 6381 c5abb0a20b20019289bb2c70b94483ee ""
   "pages/4_Ergebnisse.tex" 1773431468.19264 82 eef929c57ca1487dfcd51ad7f050adde ""
   "pages/5_Diskussion.tex" 1773431468.1886 81 eb17794aa9c83d6b4350744cb771dcb5 ""
   "pages/6_Fazit.tex" 1773431468.19579 78 dcac2c93cc5f30466229b03264ba5ae9 ""
